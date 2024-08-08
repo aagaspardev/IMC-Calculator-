@@ -1,0 +1,41 @@
+h2{
+    color: #D4D4D2;
+}h1{
+    margin-block-start: 0em; 
+    color: white;
+}
+.input_area{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+input{
+    
+    height: 1.5em;
+}
+input{
+    height: 1.5em;
+}
+textarea{
+    width: 100%;
+    margin-top: 2em;
+
+}
+
+.container{
+    background-color: #404040;
+    padding: 1em;
+    margin: 5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20em;
+}
+
+button{
+    height: 3em;
+    width: 100%;
+    border: none;
+    background-color: #FA8722;
+}
